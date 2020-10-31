@@ -33,8 +33,9 @@
   > origin是给远程仓库标记的默认名称，可以更改
 
   > 使用ssh url 比较方便
-* 4.把本地仓库master主分支内容推送到远程仓库
+* 4.把重命名本地仓库的master分支并把内容推送到远程仓库的main分支
 ```
+$ git branch -M main
 $ git push -u origin main
 ```
   > 默认推送到origin远程仓库的main分支
