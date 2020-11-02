@@ -49,7 +49,7 @@ git config --global core.autocrlf input
 
 * 举例
 
-![](1604049992(1).jpg)
+![](./../img/1604049992(1).jpg)
 
 
 

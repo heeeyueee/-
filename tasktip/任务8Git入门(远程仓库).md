@@ -12,7 +12,7 @@
 
   * 3.在github设置页面添加公钥
   
-![](github添加sshkey.png)
+![](./../img/github添加sshkey.png)
 
   *  4.测试是否配对成功,回答yes并回车
   ````
